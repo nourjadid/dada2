@@ -2,7 +2,8 @@
 title: "R Notebook"
 output: github_document
 ---
-
+ 
+ 
 #tutoriel de reference https://benjjneb.github.io/dada2/tutorial.html
 ```{r}
 install.packages("Rcpp")
